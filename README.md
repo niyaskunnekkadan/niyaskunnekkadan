@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/callmeniyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmeniyas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niyaskunnekkadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyaskunnekkadan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20230878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20230878" height="30" width="40" /></a>
+
 <a href="https://fb.com/niyas.kp.315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niyas.kp.315" height="30" width="40" /></a>
 <a href="https://instagram.com/nys_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nys_96" height="30" width="40" /></a>
 <a href="https://hashnode.com/@niyaskunnekkadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@niyaskunnekkadan" height="30" width="40" /></a>
